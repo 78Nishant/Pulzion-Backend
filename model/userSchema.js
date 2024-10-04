@@ -1,6 +1,11 @@
 // const mongoose = require("mongoose")
 // mongoose.connect("mongodb+srv://pulzion:pulzion@pulziondata.ssxoa.mongodb.net/")
 
+const mongoose=require( "mongoose");
+const { number } = require("zod");
+const {Schema}= mongoose
+
+
 var validateEmail = function(email) {
     var re = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
     return re.test(email)
@@ -66,9 +71,6 @@ var validateEmail = function(email) {
 //     Account,
 // };
 
-const mongoose=require( "mongoose");
-const {Schema}= mongoose
-
 const userSchema = new mongoose.Schema({
   username: {
     type: String,
@@ -120,5 +122,27 @@ const userSchema = new mongoose.Schema({
   },
 });
 
+const userProgress = new  mongoose.Schema({
+  userId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: User,
+    required: true,
+  },
+  progress: {
+
+  },
+  modules: {
+
+  },
+  streak: {
+    type: number,
+    default: 1,
+  },
+  totalDays: {
+    type: number,
+    required: true,
+  }
+})
+const Progress = mongoose.model('Progress', userProgress)
 const User=mongoose.model('User', userSchema);
 module.exports={User} ;

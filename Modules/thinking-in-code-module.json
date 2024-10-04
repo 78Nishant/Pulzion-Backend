@@ -1,0 +1,36 @@
+{
+  "moduleName": "Thinking in Code",
+  "ageRange": "6-8",
+  "sections": [
+    {
+      "title": "What is coding?",
+      "content": "Coding is like giving instructions to a computer. It's similar to writing a recipe or giving directions to a friend. Computers follow these instructions exactly, so we need to be very clear and precise.",
+      "activity": "Draw a simple map and write step-by-step directions to get from one point to another. Then, have a friend follow your directions exactly to see if they reach the right spot.",
+      "imageUrl": "https://example.com/images/what-is-coding.jpg"
+    },
+    {
+      "title": "Breaking down problems",
+      "content": "Coders break big problems into smaller, easier-to-solve pieces. This is called decomposition. It helps us tackle complex tasks by focusing on one small part at a time.",
+      "activity": "Take a daily task (like making a sandwich) and break it down into very small steps. Try to be as detailed as possible, like 'Pick up the knife' instead of just 'Use a knife'.",
+      "imageUrl": "https://example.com/images/problem-breakdown.jpg"
+    },
+    {
+      "title": "Patterns and repetition",
+      "content": "Coding often involves finding patterns and repeating actions. Recognizing patterns helps us write more efficient code and solve problems faster.",
+      "activity": "Create a colorful pattern using shapes or stickers. Then, try to describe your pattern using words only, so someone else could recreate it without seeing it.",
+      "imageUrl": "https://example.com/images/patterns.jpg"
+    },
+    {
+      "title": "Algorithms in everyday life",
+      "content": "An algorithm is a step-by-step procedure for solving a problem or completing a task. We use algorithms every day, even when we're not coding!",
+      "activity": "Create an 'algorithm' for a simple task like tying shoelaces or brushing teeth. Write out each step and test it by having a classmate follow your instructions exactly.",
+      "imageUrl": "https://example.com/images/everyday-algorithms.jpg"
+    },
+    {
+      "title": "Introduction to symbols and commands",
+      "content": "In coding, we use special symbols and commands to tell the computer what to do. These are like a secret language that computers understand.",
+      "activity": "Create a set of symbol 'commands' for moving a toy or object around a room (e.g., → for 'move right', ↑ for 'move forward'). Then, write a series of these commands and have a friend follow them with the object.",
+      "imageUrl": "https://example.com/images/symbols-commands.jpg"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "moduleName": "Sequences, Conditionals, and Loops",
+  "ageRange": "10-12",
+  "sections": [
+    {
+      "title": "Sequences",
+      "content": "Programs run step-by-step, following a sequence of instructions. The order of these instructions is crucial for the program to work correctly.",
+      "activity": "Create a simple board game where players follow a sequence of actions. Then, try rearranging the sequence and see how it changes the game.",
+      "imageUrl": "https://example.com/images/sequences.jpg"
+    },
+    {
+      "title": "Conditionals (If-Then statements)",
+      "content": "Programs can make decisions based on conditions. This allows for different actions depending on the situation, making programs more flexible and powerful.",
+      "activity": "Play a 'Choose Your Own Adventure' style game with branching paths. Then, create your own story with at least three decision points.",
+      "imageUrl": "https://example.com/images/conditionals.jpg"
+    },
+    {
+      "title": "Loops",
+      "content": "Loops allow us to repeat actions multiple times without writing the same code over and over. This makes our code more efficient and can handle tasks of varying sizes.",
+      "activity": "Design a spirograph-style drawing using repeated patterns. Experiment with changing the number of repetitions to create different designs.",
+      "imageUrl": "https://example.com/images/loops.jpg"
+    },
+    {
+      "title": "Nested structures",
+      "content": "We can put conditionals inside loops, loops inside conditionals, or even loops inside loops. This allows for more complex and powerful programs.",
+      "activity": "Create a simple text-based adventure game that uses nested if-statements and loops. Draw a flowchart to visualize the structure of your game.",
+      "imageUrl": "https://example.com/images/nested-structures.jpg"
+    },
+    {
+      "title": "Boolean logic",
+      "content": "Boolean logic uses true/false values and operators like AND, OR, and NOT. It's crucial for creating complex conditions in our programs.",
+      "activity": "Play a guess-who style game where you have to ask yes/no questions. Then, create compound questions using AND, OR, and NOT to narrow down the options faster.",
+      "imageUrl": "https://example.com/images/boolean-logic.jpg"
+    },
+    {
+      "title": "Debugging basics",
+      "content": "Debugging is the process of finding and fixing errors in code. Learn strategies for identifying where things go wrong and how to fix them.",
+      "activity": "Given a set of 'broken' instructions for a task, work in pairs to follow them exactly, identify where they go wrong, and suggest fixes.",
+      "imageUrl": "https://example.com/images/debugging-basics.jpg"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "moduleName": "Fundamentals of Programming",
+  "ageRange": "8-10",
+  "sections": [
+    {
+      "title": "What are variables?",
+      "content": "Variables are like labeled boxes where we store information in our programs. They can hold different types of data and we can change their contents as our program runs.",
+      "activity": "Play a guessing game where items are hidden in boxes with labels. Update the contents of the boxes during the game to show how variables can change.",
+      "imageUrl": "https://example.com/images/variables.jpg"
+    },
+    {
+      "title": "Basic data types",
+      "content": "Learn about numbers (integers and floats), text (strings), and true/false values (booleans). Understanding data types helps us know what kind of information we're working with and what we can do with it.",
+      "activity": "Sort different types of information (numbers, words, yes/no questions) into categories. Then, brainstorm what kinds of operations you could do with each type.",
+      "imageUrl": "https://example.com/images/data-types.jpg"
+    },
+    {
+      "title": "Simple operations",
+      "content": "Explore basic math operations (addition, subtraction, multiplication, division) and how to combine pieces of text (concatenation). These are the building blocks for more complex computations.",
+      "activity": "Create a 'Mad Libs' style story by combining words and numbers. Use math operations to calculate values for some of the blanks in the story.",
+      "imageUrl": "https://example.com/images/operations.jpg"
+    },
+    {
+      "title": "Input and output",
+      "content": "Programs often need to get information from users (input) and display results (output). This allows for interactive and dynamic programs.",
+      "activity": "Design a simple quiz program on paper. Write out how you would ask questions (output), get answers from the user (input), and respond based on their answers (more output).",
+      "imageUrl": "https://example.com/images/input-output.jpg"
+    },
+    {
+      "title": "Introduction to functions",
+      "content": "Functions are reusable blocks of code that perform specific tasks. They help us organize our code and avoid repetition.",
+      "activity": "Create a 'human function machine' where students line up to be 'functions'. Each function does a specific task (like adding 5 to a number). Pass 'inputs' through the line and see how they change.",
+      "imageUrl": "https://example.com/images/intro-functions.jpg"
+    },
+    {
+      "title": "Basic problem-solving strategies",
+      "content": "Learn strategies like breaking down problems, looking for patterns, and using pseudocode to plan solutions before coding.",
+      "activity": "Given a word problem, practice breaking it down into smaller parts, identifying important information, and writing pseudocode to solve it.",
+      "imageUrl": "https://example.com/images/problem-solving.jpg"
+    }
+  ]
+}

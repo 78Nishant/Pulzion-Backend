@@ -1,0 +1,48 @@
+{
+  "moduleName": "Learning to Code in Python",
+  "ageRange": "12-14",
+  "sections": [
+    {
+      "title": "Python basics",
+      "content": "Learn about Python syntax, how to run Python code, and basic print statements. Understand the importance of indentation in Python and how to use comments to explain your code.",
+      "activity": "Write and run a 'Hello, World!' program in Python. Then, create a program that prints out a short, multi-line story using multiple print statements and comments.",
+      "imageUrl": "https://example.com/images/python-basics.jpg"
+    },
+    {
+      "title": "Variables and data types in Python",
+      "content": "Explore how to create and use variables in Python, and learn about Python's data types including integers, floats, strings, and booleans. Understand type conversion and how to use the type() function.",
+      "activity": "Create a simple quiz program that asks questions, stores the user's answers in variables, and then prints out a summary of their responses with appropriate data types.",
+      "imageUrl": "https://example.com/images/python-variables.jpg"
+    },
+    {
+      "title": "Control structures in Python",
+      "content": "Learn how to use if-statements, for loops, and while loops in Python. Understand how to use comparison operators and logical operators to create complex conditions.",
+      "activity": "Create a number guessing game using loops and conditionals. The program should give hints (higher/lower) and congratulate the user when they guess correctly.",
+      "imageUrl": "https://example.com/images/python-control-structures.jpg"
+    },
+    {
+      "title": "Functions in Python",
+      "content": "Understand how to define and use functions to organize and reuse code. Learn about parameters, return values, and scope in Python functions.",
+      "activity": "Build a simple calculator program using functions for each operation (add, subtract, multiply, divide). Then, add a main function that lets the user choose an operation and input numbers.",
+      "imageUrl": "https://example.com/images/python-functions.jpg"
+    },
+    {
+      "title": "Lists and dictionaries",
+      "content": "Explore Python's built-in data structures: lists and dictionaries. Learn how to create, access, and modify these structures, and understand common methods and operations.",
+      "activity": "Create a contact book program that stores names and phone numbers in a dictionary. Implement functions to add new contacts, update existing ones, and search for a contact by name.",
+      "imageUrl": "https://example.com/images/python-data-structures.jpg"
+    },
+    {
+      "title": "File I/O in Python",
+      "content": "Learn how to read from and write to files using Python. Understand different file modes and how to safely handle file operations.",
+      "activity": "Extend the contact book program to save contacts to a file and load them when the program starts. Add error handling for file operations.",
+      "imageUrl": "https://example.com/images/python-file-io.jpg"
+    },
+    {
+      "title": "Introduction to modules",
+      "content": "Explore how to use Python's built-in modules and import functions from other files. Understand the concept of namespaces and how to use aliases in imports.",
+      "activity": "Create a simple game using the random module for generating random numbers. Then, split your program into multiple files and use imports to organize your code.",
+      "imageUrl": "https://example.com/images/python-modules.jpg"
+    }
+  ]
+}

@@ -129,10 +129,10 @@ const userProgress = new  mongoose.Schema({
     required: true,
   },
   progress: {
-
+    type: number,
   },
   modules: {
-
+    type: number,
   },
   streak: {
     type: number,

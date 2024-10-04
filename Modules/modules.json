@@ -1,0 +1,440 @@
+{
+  "modules":[{
+  "moduleName": "Data Structures and Algorithms",
+  "ageRange": "15-18",
+  "sections": [
+    {
+      "title": "Introduction to Data Structures",
+      "content": "Understand what data structures are and why they're important in programming. Overview of common data structures like arrays, linked lists, stacks, and queues.",
+      "activity": "Implement a stack and a queue in Python, and use them to solve simple problems like reversing a string or checking for balanced parentheses.",
+      "imageUrl": "https://example.com/images/intro-data-structures.jpg"
+    },
+    {
+      "title": "Searching Algorithms",
+      "content": "Learn about linear search and binary search algorithms. Understand their time complexities and when to use each.",
+      "activity": "Implement linear and binary search algorithms in Python. Compare their performance with different input sizes.",
+      "imageUrl": "https://example.com/images/searching-algorithms.jpg"
+    },
+    {
+      "title": "Sorting Algorithms",
+      "content": "Explore basic sorting algorithms like bubble sort, selection sort, and insertion sort. Introduce the concept of algorithm efficiency and Big O notation.",
+      "activity": "Implement bubble sort and selection sort in Python. Visualize the sorting process and compare their performance.",
+      "imageUrl": "https://example.com/images/sorting-algorithms.jpg"
+    },
+    {
+      "title": "Recursion",
+      "content": "Understand the concept of recursion and how it can be used to solve problems. Learn about base cases and recursive cases.",
+      "activity": "Solve problems using recursion, such as calculating factorial, Fibonacci sequence, or traversing a simple tree structure.",
+      "imageUrl": "https://example.com/images/recursion.jpg"
+    },
+    {
+      "title": "Introduction to Graphs",
+      "content": "Learn about graph data structures and their applications. Understand basic graph terminology and representations.",
+      "activity": "Implement a simple graph in Python and perform basic operations like adding vertices and edges. Implement a depth-first search algorithm.",
+      "imageUrl": "https://example.com/images/intro-graphs.jpg"
+    }
+  ]
+},{
+  "moduleName": "Fun with Coding Basics",
+  "ageRange": "6-9",
+  "sections": [
+    {
+      "title": "What is Coding?",
+      "content": "Learn what coding is and how it's used to create games, apps, and websites. Discover how computers follow instructions just like you do!",
+      "activity": "Play a fun 'Simon Says' game where you act as the computer following instructions.",
+      "videoLink": "https://www.youtube.com/watch?v=Dv7gLpW91DM",
+      "imageUrl": "https://example.com/images/what-is-coding-kids.jpg"
+    },
+    {
+      "title": "Sequencing Adventures",
+      "content": "Explore how to give step-by-step instructions to solve problems or complete tasks.",
+      "activity": "Create a 'recipe' for making a silly sandwich, being as detailed as possible with each step.",
+      "videoLink": "https://www.youtube.com/watch?v=xGx3EKQMhNk",
+      "imageUrl": "https://example.com/images/sequencing-kids.jpg"
+    },
+    {
+      "title": "Loopy Fun",
+      "content": "Learn about loops and how they help us repeat actions without writing the same thing over and over.",
+      "activity": "Draw a colorful pattern using loops of shapes or colors.",
+      "videoLink": "https://www.youtube.com/watch?v=iYwXxsPlSK4",
+      "imageUrl": "https://example.com/images/loops-kids.jpg"
+    },
+    {
+      "title": "If This, Then That Magic",
+      "content": "Discover how computers make decisions using 'if-then' statements.",
+      "activity": "Play a guessing game where you use if-then statements to narrow down the options.",
+      "videoLink": "https://www.youtube.com/watch?v=_A4bvJ2tNLU",
+      "imageUrl": "https://example.com/images/if-then-kids.jpg"
+    }
+  ]
+},
+{
+  "moduleName": "Introduction to Databases",
+  "ageRange": "16-18",
+  "sections": [
+    {
+      "title": "Understanding Databases",
+      "content": "Learn what databases are, why they're important, and the difference between relational and non-relational databases. Understand basic database terminology.",
+      "activity": "Design a simple database schema for a school library system, identifying entities and their relationships.",
+      "imageUrl": "https://example.com/images/understanding-databases.jpg"
+    },
+    {
+      "title": "Introduction to SQL",
+      "content": "Learn the basics of SQL (Structured Query Language) for interacting with relational databases. Understand how to create tables and perform CRUD operations.",
+      "activity": "Use SQLite to create a simple database, insert data, and perform basic queries to retrieve and update information.",
+      "imageUrl": "https://example.com/images/intro-sql.jpg"
+    },
+    {
+      "title": "Database Design Principles",
+      "content": "Explore principles of good database design, including normalization, primary and foreign keys, and indexing.",
+      "activity": "Normalize a denormalized database schema, identifying and resolving issues like data redundancy and update anomalies.",
+      "imageUrl": "https://example.com/images/database-design.jpg"
+    },
+    {
+      "title": "Querying and Joins",
+      "content": "Learn how to write more complex SQL queries, including joins, subqueries, and aggregate functions.",
+      "activity": "Write SQL queries to answer complex questions about the school library database, involving multiple tables and aggregations.",
+      "imageUrl": "https://example.com/images/querying-joins.jpg"
+    },
+    {
+      "title": "Connecting Databases to Applications",
+      "content": "Understand how to connect a database to a programming language (e.g., Python) and perform database operations from within an application.",
+      "activity": "Create a simple Python program that connects to the SQLite database, allows users to input data, and displays query results.",
+      "imageUrl": "https://example.com/images/database-applications.jpg"
+    }
+  ]
+},{
+  "moduleName": "Fundamentals of Programming",
+  "ageRange": "8-10",
+  "sections": [
+    {
+      "title": "What are variables?",
+      "content": "Variables are like labeled boxes where we store information in our programs. They can hold different types of data and we can change their contents as our program runs.",
+      "activity": "Play a guessing game where items are hidden in boxes with labels. Update the contents of the boxes during the game to show how variables can change.",
+      "imageUrl": "https://example.com/images/variables.jpg"
+    },
+    {
+      "title": "Basic data types",
+      "content": "Learn about numbers (integers and floats), text (strings), and true/false values (booleans). Understanding data types helps us know what kind of information we're working with and what we can do with it.",
+      "activity": "Sort different types of information (numbers, words, yes/no questions) into categories. Then, brainstorm what kinds of operations you could do with each type.",
+      "imageUrl": "https://example.com/images/data-types.jpg"
+    },
+    {
+      "title": "Simple operations",
+      "content": "Explore basic math operations (addition, subtraction, multiplication, division) and how to combine pieces of text (concatenation). These are the building blocks for more complex computations.",
+      "activity": "Create a 'Mad Libs' style story by combining words and numbers. Use math operations to calculate values for some of the blanks in the story.",
+      "imageUrl": "https://example.com/images/operations.jpg"
+    },
+    {
+      "title": "Input and output",
+      "content": "Programs often need to get information from users (input) and display results (output). This allows for interactive and dynamic programs.",
+      "activity": "Design a simple quiz program on paper. Write out how you would ask questions (output), get answers from the user (input), and respond based on their answers (more output).",
+      "imageUrl": "https://example.com/images/input-output.jpg"
+    },
+    {
+      "title": "Introduction to functions",
+      "content": "Functions are reusable blocks of code that perform specific tasks. They help us organize our code and avoid repetition.",
+      "activity": "Create a 'human function machine' where students line up to be 'functions'. Each function does a specific task (like adding 5 to a number). Pass 'inputs' through the line and see how they change.",
+      "imageUrl": "https://example.com/images/intro-functions.jpg"
+    },
+    {
+      "title": "Basic problem-solving strategies",
+      "content": "Learn strategies like breaking down problems, looking for patterns, and using pseudocode to plan solutions before coding.",
+      "activity": "Given a word problem, practice breaking it down into smaller parts, identifying important information, and writing pseudocode to solve it.",
+      "imageUrl": "https://example.com/images/problem-solving.jpg"
+    }
+  ]
+}
+,
+{
+  "moduleName": "Learning to Code in Python",
+  "ageRange": "12-14",
+  "sections": [
+    {
+      "title": "Python basics",
+      "content": "Learn about Python syntax, how to run Python code, and basic print statements. Understand the importance of indentation in Python and how to use comments to explain your code.",
+      "activity": "Write and run a 'Hello, World!' program in Python. Then, create a program that prints out a short, multi-line story using multiple print statements and comments.",
+      "imageUrl": "https://example.com/images/python-basics.jpg"
+    },
+    {
+      "title": "Variables and data types in Python",
+      "content": "Explore how to create and use variables in Python, and learn about Python's data types including integers, floats, strings, and booleans. Understand type conversion and how to use the type() function.",
+      "activity": "Create a simple quiz program that asks questions, stores the user's answers in variables, and then prints out a summary of their responses with appropriate data types.",
+      "imageUrl": "https://example.com/images/python-variables.jpg"
+    },
+    {
+      "title": "Control structures in Python",
+      "content": "Learn how to use if-statements, for loops, and while loops in Python. Understand how to use comparison operators and logical operators to create complex conditions.",
+      "activity": "Create a number guessing game using loops and conditionals. The program should give hints (higher/lower) and congratulate the user when they guess correctly.",
+      "imageUrl": "https://example.com/images/python-control-structures.jpg"
+    },
+    {
+      "title": "Functions in Python",
+      "content": "Understand how to define and use functions to organize and reuse code. Learn about parameters, return values, and scope in Python functions.",
+      "activity": "Build a simple calculator program using functions for each operation (add, subtract, multiply, divide). Then, add a main function that lets the user choose an operation and input numbers.",
+      "imageUrl": "https://example.com/images/python-functions.jpg"
+    },
+    {
+      "title": "Lists and dictionaries",
+      "content": "Explore Python's built-in data structures: lists and dictionaries. Learn how to create, access, and modify these structures, and understand common methods and operations.",
+      "activity": "Create a contact book program that stores names and phone numbers in a dictionary. Implement functions to add new contacts, update existing ones, and search for a contact by name.",
+      "imageUrl": "https://example.com/images/python-data-structures.jpg"
+    },
+    {
+      "title": "File I/O in Python",
+      "content": "Learn how to read from and write to files using Python. Understand different file modes and how to safely handle file operations.",
+      "activity": "Extend the contact book program to save contacts to a file and load them when the program starts. Add error handling for file operations.",
+      "imageUrl": "https://example.com/images/python-file-io.jpg"
+    },
+    {
+      "title": "Introduction to modules",
+      "content": "Explore how to use Python's built-in modules and import functions from other files. Understand the concept of namespaces and how to use aliases in imports.",
+      "activity": "Create a simple game using the random module for generating random numbers. Then, split your program into multiple files and use imports to organize your code.",
+      "imageUrl": "https://example.com/images/python-modules.jpg"
+    }
+  ]
+},
+{
+  "moduleName": "Python for Young Programmers",
+  "ageRange": "12-15",
+  "sections": [
+    {
+      "title": "Introduction to Python",
+      "content": "Learn what Python is and why it's a great language for beginners. Set up a Python environment on your computer.",
+      "activity": "Write your first Python program to print 'Hello, World!' and your name.",
+      "videoLink": "https://www.youtube.com/watch?v=jFCNu1-Xdsw",
+      "imageUrl": "https://example.com/images/python-intro-kids.jpg"
+    },
+    {
+      "title": "Variables and Data Types",
+      "content": "Explore how to store and manipulate different types of data in Python.",
+      "activity": "Create a 'Mad Libs' style game that asks for inputs and creates a funny story.",
+      "videoLink": "https://www.youtube.com/watch?v=hEgO047GxaQ",
+      "imageUrl": "https://example.com/images/python-variables-kids.jpg"
+    },
+    {
+      "title": "Loops and Conditionals",
+      "content": "Learn how to use loops and if-statements to control the flow of your Python programs.",
+      "activity": "Create a simple number guessing game using while loops and if-statements.",
+      "videoLink": "https://www.youtube.com/watch?v=IXr0-J5XXMA",
+      "imageUrl": "https://example.com/images/python-loops-conditionals-kids.jpg"
+    },
+    {
+      "title": "Functions and Modules",
+      "content": "Discover how to create reusable pieces of code with functions and how to use Python modules.",
+      "activity": "Create a simple calculator program using functions for each operation.",
+      "videoLink": "https://www.youtube.com/watch?v=GQVlIlY6Kkw",
+      "imageUrl": "https://example.com/images/python-functions-kids.jpg"
+    },
+    {
+      "title": "Simple Game Development",
+      "content": "Learn how to create a simple text-based adventure game using Python.",
+      "activity": "Design and code a short text-based adventure game with multiple paths and outcomes.",
+      "videoLink": "https://www.youtube.com/watch?v=DLn3jOsNRVE",
+      "imageUrl": "https://example.com/images/python-game-dev-kids.jpg"
+    }
+  ]
+},
+{
+  "moduleName": "Scratch Programming for Kids",
+  "ageRange": "9-12",
+  "sections": [
+    {
+      "title": "Getting Started with Scratch",
+      "content": "Learn about the Scratch programming environment and how to create your first project.",
+      "activity": "Create a simple animation of a cat walking across the screen in Scratch.",
+      "videoLink": "https://www.youtube.com/watch?v=K0T7zuxEIgw",
+      "imageUrl": "https://example.com/images/scratch-intro-kids.jpg"
+    },
+    {
+      "title": "Making Things Move",
+      "content": "Explore how to make sprites move and interact in your Scratch projects.",
+      "activity": "Create a simple game where you control a character to collect items.",
+      "videoLink": "https://www.youtube.com/watch?v=1E8opsBP_98",
+      "imageUrl": "https://example.com/images/scratch-movement-kids.jpg"
+    },
+    {
+      "title": "Adding Sounds and Music",
+      "content": "Learn how to incorporate sounds and music into your Scratch projects.",
+      "activity": "Create a virtual musical instrument in Scratch that plays different sounds when keys are pressed.",
+      "videoLink": "https://www.youtube.com/watch?v=HpxWlV46Srs",
+      "imageUrl": "https://example.com/images/scratch-sounds-kids.jpg"
+    },
+    {
+      "title": "Storytelling with Scratch",
+      "content": "Use Scratch to create interactive stories with multiple scenes and characters.",
+      "activity": "Create a short, interactive story with at least two characters and three scenes.",
+      "videoLink": "https://www.youtube.com/watch?v=3lAtzGwP-Kg",
+      "imageUrl": "https://example.com/images/scratch-storytelling-kids.jpg"
+    }
+  ]
+},
+{
+  "moduleName": "Sequences, Conditionals, and Loops",
+  "ageRange": "10-12",
+  "sections": [
+    {
+      "title": "Sequences",
+      "content": "Programs run step-by-step, following a sequence of instructions. The order of these instructions is crucial for the program to work correctly.",
+      "activity": "Create a simple board game where players follow a sequence of actions. Then, try rearranging the sequence and see how it changes the game.",
+      "imageUrl": "https://example.com/images/sequences.jpg"
+    },
+    {
+      "title": "Conditionals (If-Then statements)",
+      "content": "Programs can make decisions based on conditions. This allows for different actions depending on the situation, making programs more flexible and powerful.",
+      "activity": "Play a 'Choose Your Own Adventure' style game with branching paths. Then, create your own story with at least three decision points.",
+      "imageUrl": "https://example.com/images/conditionals.jpg"
+    },
+    {
+      "title": "Loops",
+      "content": "Loops allow us to repeat actions multiple times without writing the same code over and over. This makes our code more efficient and can handle tasks of varying sizes.",
+      "activity": "Design a spirograph-style drawing using repeated patterns. Experiment with changing the number of repetitions to create different designs.",
+      "imageUrl": "https://example.com/images/loops.jpg"
+    },
+    {
+      "title": "Nested structures",
+      "content": "We can put conditionals inside loops, loops inside conditionals, or even loops inside loops. This allows for more complex and powerful programs.",
+      "activity": "Create a simple text-based adventure game that uses nested if-statements and loops. Draw a flowchart to visualize the structure of your game.",
+      "imageUrl": "https://example.com/images/nested-structures.jpg"
+    },
+    {
+      "title": "Boolean logic",
+      "content": "Boolean logic uses true/false values and operators like AND, OR, and NOT. It's crucial for creating complex conditions in our programs.",
+      "activity": "Play a guess-who style game where you have to ask yes/no questions. Then, create compound questions using AND, OR, and NOT to narrow down the options faster.",
+      "imageUrl": "https://example.com/images/boolean-logic.jpg"
+    },
+    {
+      "title": "Debugging basics",
+      "content": "Debugging is the process of finding and fixing errors in code. Learn strategies for identifying where things go wrong and how to fix them.",
+      "activity": "Given a set of 'broken' instructions for a task, work in pairs to follow them exactly, identify where they go wrong, and suggest fixes.",
+      "imageUrl": "https://example.com/images/debugging-basics.jpg"
+    }
+  ]
+},
+{
+  "moduleName": "Thinking in Code",
+  "ageRange": "6-8",
+  "sections": [
+    {
+      "title": "What is coding?",
+      "content": "Coding is like giving instructions to a computer. It's similar to writing a recipe or giving directions to a friend. Computers follow these instructions exactly, so we need to be very clear and precise.",
+      "activity": "Draw a simple map and write step-by-step directions to get from one point to another. Then, have a friend follow your directions exactly to see if they reach the right spot.",
+      "imageUrl": "https://example.com/images/what-is-coding.jpg"
+    },
+    {
+      "title": "Breaking down problems",
+      "content": "Coders break big problems into smaller, easier-to-solve pieces. This is called decomposition. It helps us tackle complex tasks by focusing on one small part at a time.",
+      "activity": "Take a daily task (like making a sandwich) and break it down into very small steps. Try to be as detailed as possible, like 'Pick up the knife' instead of just 'Use a knife'.",
+      "imageUrl": "https://example.com/images/problem-breakdown.jpg"
+    },
+    {
+      "title": "Patterns and repetition",
+      "content": "Coding often involves finding patterns and repeating actions. Recognizing patterns helps us write more efficient code and solve problems faster.",
+      "activity": "Create a colorful pattern using shapes or stickers. Then, try to describe your pattern using words only, so someone else could recreate it without seeing it.",
+      "imageUrl": "https://example.com/images/patterns.jpg"
+    },
+    {
+      "title": "Algorithms in everyday life",
+      "content": "An algorithm is a step-by-step procedure for solving a problem or completing a task. We use algorithms every day, even when we're not coding!",
+      "activity": "Create an 'algorithm' for a simple task like tying shoelaces or brushing teeth. Write out each step and test it by having a classmate follow your instructions exactly.",
+      "imageUrl": "https://example.com/images/everyday-algorithms.jpg"
+    },
+    {
+      "title": "Introduction to symbols and commands",
+      "content": "In coding, we use special symbols and commands to tell the computer what to do. These are like a secret language that computers understand.",
+      "activity": "Create a set of symbol 'commands' for moving a toy or object around a room (e.g., → for 'move right', ↑ for 'move forward'). Then, write a series of these commands and have a friend follow them with the object.",
+      "imageUrl": "https://example.com/images/symbols-commands.jpg"
+    }
+  ]
+}
+,
+{
+  "moduleName": "Sequences, Conditionals, and Loops",
+  "ageRange": "10-12",
+  "sections": [
+    {
+      "title": "Sequences",
+      "content": "Programs run step-by-step, following a sequence of instructions. The order of these instructions is crucial for the program to work correctly.",
+      "activity": "Create a simple board game where players follow a sequence of actions. Then, try rearranging the sequence and see how it changes the game.",
+      "imageUrl": "https://example.com/images/sequences.jpg"
+    },
+    {
+      "title": "Conditionals (If-Then statements)",
+      "content": "Programs can make decisions based on conditions. This allows for different actions depending on the situation, making programs more flexible and powerful.",
+      "activity": "Play a 'Choose Your Own Adventure' style game with branching paths. Then, create your own story with at least three decision points.",
+      "imageUrl": "https://example.com/images/conditionals.jpg"
+    },
+    {
+      "title": "Loops",
+      "content": "Loops allow us to repeat actions multiple times without writing the same code over and over. This makes our code more efficient and can handle tasks of varying sizes.",
+      "activity": "Design a spirograph-style drawing using repeated patterns. Experiment with changing the number of repetitions to create different designs.",
+      "imageUrl": "https://example.com/images/loops.jpg"
+    },
+    {
+      "title": "Nested structures",
+      "content": "We can put conditionals inside loops, loops inside conditionals, or even loops inside loops. This allows for more complex and powerful programs.",
+      "activity": "Create a simple text-based adventure game that uses nested if-statements and loops. Draw a flowchart to visualize the structure of your game.",
+      "imageUrl": "https://example.com/images/nested-structures.jpg"
+    },
+    {
+      "title": "Boolean logic",
+      "content": "Boolean logic uses true/false values and operators like AND, OR, and NOT. It's crucial for creating complex conditions in our programs.",
+      "activity": "Play a guess-who style game where you have to ask yes/no questions. Then, create compound questions using AND, OR, and NOT to narrow down the options faster.",
+      "imageUrl": "https://example.com/images/boolean-logic.jpg"
+    },
+    {
+      "title": "Debugging basics",
+      "content": "Debugging is the process of finding and fixing errors in code. Learn strategies for identifying where things go wrong and how to fix them.",
+      "activity": "Given a set of 'broken' instructions for a task, work in pairs to follow them exactly, identify where they go wrong, and suggest fixes.",
+      "imageUrl": "https://example.com/images/debugging-basics.jpg"
+    }
+  ]
+},
+{
+  "moduleName": "Web Development Basics",
+  "ageRange": "13-16",
+  "sections": [
+    {
+      "title": "Introduction to HTML",
+      "content": "Learn the basics of HTML (Hypertext Markup Language), including tags, elements, and document structure. Understand how HTML is used to create the structure of web pages.",
+      "activity": "Create a simple personal webpage with headings, paragraphs, lists, and links using HTML.",
+      "imageUrl": "https://example.com/images/intro-html.jpg"
+    },
+    {
+      "title": "Styling with CSS",
+      "content": "Explore Cascading Style Sheets (CSS) and how they're used to style HTML elements. Learn about selectors, properties, and values.",
+      "activity": "Add CSS to your personal webpage to change colors, fonts, and layout. Experiment with different styles and responsive design.",
+      "imageUrl": "https://example.com/images/css-basics.jpg"
+    },
+    {
+      "title": "JavaScript fundamentals",
+      "content": "Introduction to JavaScript as a client-side scripting language. Learn about variables, functions, and basic DOM manipulation.",
+      "activity": "Add interactivity to your webpage with JavaScript, such as a button that changes text when clicked or a simple form validation.",
+      "imageUrl": "https://example.com/images/js-fundamentals.jpg"
+    },
+    {
+      "title": "Responsive design principles",
+      "content": "Understand the importance of responsive design and how to create websites that work well on various devices and screen sizes.",
+      "activity": "Modify your personal webpage to be responsive, using CSS media queries and flexible layouts.",
+      "imageUrl": "https://example.com/images/responsive-design.jpg"
+    },
+    {
+      "title": "Web accessibility basics",
+      "content": "Learn about web accessibility and why it's important. Explore techniques for making web content more accessible to people with disabilities.",
+      "activity": "Audit your personal webpage for accessibility issues and make improvements, such as adding alt text to images and ensuring proper color contrast.",
+      "imageUrl": "https://example.com/images/web-accessibility.jpg"
+    }
+  ]
+}
+]}
+
+
+
+
+
+
+
+
+
+
+

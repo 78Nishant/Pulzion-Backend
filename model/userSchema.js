@@ -2,7 +2,6 @@
 // mongoose.connect("mongodb+srv://pulzion:pulzion@pulziondata.ssxoa.mongodb.net/")
 
 const mongoose=require( "mongoose");
-const { number } = require("zod");
 const {Schema}= mongoose
 
 
@@ -129,20 +128,21 @@ const userProgress = new  mongoose.Schema({
     required: true,
   },
   progress: {
-    type: number,
+    type: Number,
   },
   modules: {
-    type: number,
+    type: Number,
+
   },
   streak: {
-    type: number,
+    type: Number,
     default: 1,
   },
   totalDays: {
-    type: number,
+    type: Number,
     required: true,
   }
 })
 const Progress = mongoose.model('Progress', userProgress)
 const User=mongoose.model('User', userSchema);
-module.exports={User} ;
+module.exports={User, Progress} ;

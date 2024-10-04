@@ -1,0 +1,36 @@
+{
+  "moduleName": "Web Development Basics",
+  "ageRange": "13-16",
+  "sections": [
+    {
+      "title": "Introduction to HTML",
+      "content": "Learn the basics of HTML (Hypertext Markup Language), including tags, elements, and document structure. Understand how HTML is used to create the structure of web pages.",
+      "activity": "Create a simple personal webpage with headings, paragraphs, lists, and links using HTML.",
+      "imageUrl": "https://example.com/images/intro-html.jpg"
+    },
+    {
+      "title": "Styling with CSS",
+      "content": "Explore Cascading Style Sheets (CSS) and how they're used to style HTML elements. Learn about selectors, properties, and values.",
+      "activity": "Add CSS to your personal webpage to change colors, fonts, and layout. Experiment with different styles and responsive design.",
+      "imageUrl": "https://example.com/images/css-basics.jpg"
+    },
+    {
+      "title": "JavaScript fundamentals",
+      "content": "Introduction to JavaScript as a client-side scripting language. Learn about variables, functions, and basic DOM manipulation.",
+      "activity": "Add interactivity to your webpage with JavaScript, such as a button that changes text when clicked or a simple form validation.",
+      "imageUrl": "https://example.com/images/js-fundamentals.jpg"
+    },
+    {
+      "title": "Responsive design principles",
+      "content": "Understand the importance of responsive design and how to create websites that work well on various devices and screen sizes.",
+      "activity": "Modify your personal webpage to be responsive, using CSS media queries and flexible layouts.",
+      "imageUrl": "https://example.com/images/responsive-design.jpg"
+    },
+    {
+      "title": "Web accessibility basics",
+      "content": "Learn about web accessibility and why it's important. Explore techniques for making web content more accessible to people with disabilities.",
+      "activity": "Audit your personal webpage for accessibility issues and make improvements, such as adding alt text to images and ensuring proper color contrast.",
+      "imageUrl": "https://example.com/images/web-accessibility.jpg"
+    }
+  ]
+}

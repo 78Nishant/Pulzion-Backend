@@ -1,0 +1,36 @@
+{
+  "moduleName": "Data Structures and Algorithms",
+  "ageRange": "15-18",
+  "sections": [
+    {
+      "title": "Introduction to Data Structures",
+      "content": "Understand what data structures are and why they're important in programming. Overview of common data structures like arrays, linked lists, stacks, and queues.",
+      "activity": "Implement a stack and a queue in Python, and use them to solve simple problems like reversing a string or checking for balanced parentheses.",
+      "imageUrl": "https://example.com/images/intro-data-structures.jpg"
+    },
+    {
+      "title": "Searching Algorithms",
+      "content": "Learn about linear search and binary search algorithms. Understand their time complexities and when to use each.",
+      "activity": "Implement linear and binary search algorithms in Python. Compare their performance with different input sizes.",
+      "imageUrl": "https://example.com/images/searching-algorithms.jpg"
+    },
+    {
+      "title": "Sorting Algorithms",
+      "content": "Explore basic sorting algorithms like bubble sort, selection sort, and insertion sort. Introduce the concept of algorithm efficiency and Big O notation.",
+      "activity": "Implement bubble sort and selection sort in Python. Visualize the sorting process and compare their performance.",
+      "imageUrl": "https://example.com/images/sorting-algorithms.jpg"
+    },
+    {
+      "title": "Recursion",
+      "content": "Understand the concept of recursion and how it can be used to solve problems. Learn about base cases and recursive cases.",
+      "activity": "Solve problems using recursion, such as calculating factorial, Fibonacci sequence, or traversing a simple tree structure.",
+      "imageUrl": "https://example.com/images/recursion.jpg"
+    },
+    {
+      "title": "Introduction to Graphs",
+      "content": "Learn about graph data structures and their applications. Understand basic graph terminology and representations.",
+      "activity": "Implement a simple graph in Python and perform basic operations like adding vertices and edges. Implement a depth-first search algorithm.",
+      "imageUrl": "https://example.com/images/intro-graphs.jpg"
+    }
+  ]
+}

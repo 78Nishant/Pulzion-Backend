@@ -1,0 +1,34 @@
+{
+  "moduleName": "Scratch Programming for Kids",
+  "ageRange": "9-12",
+  "sections": [
+    {
+      "title": "Getting Started with Scratch",
+      "content": "Learn about the Scratch programming environment and how to create your first project.",
+      "activity": "Create a simple animation of a cat walking across the screen in Scratch.",
+      "videoLink": "https://www.youtube.com/watch?v=K0T7zuxEIgw",
+      "imageUrl": "https://example.com/images/scratch-intro-kids.jpg"
+    },
+    {
+      "title": "Making Things Move",
+      "content": "Explore how to make sprites move and interact in your Scratch projects.",
+      "activity": "Create a simple game where you control a character to collect items.",
+      "videoLink": "https://www.youtube.com/watch?v=1E8opsBP_98",
+      "imageUrl": "https://example.com/images/scratch-movement-kids.jpg"
+    },
+    {
+      "title": "Adding Sounds and Music",
+      "content": "Learn how to incorporate sounds and music into your Scratch projects.",
+      "activity": "Create a virtual musical instrument in Scratch that plays different sounds when keys are pressed.",
+      "videoLink": "https://www.youtube.com/watch?v=HpxWlV46Srs",
+      "imageUrl": "https://example.com/images/scratch-sounds-kids.jpg"
+    },
+    {
+      "title": "Storytelling with Scratch",
+      "content": "Use Scratch to create interactive stories with multiple scenes and characters.",
+      "activity": "Create a short, interactive story with at least two characters and three scenes.",
+      "videoLink": "https://www.youtube.com/watch?v=3lAtzGwP-Kg",
+      "imageUrl": "https://example.com/images/scratch-storytelling-kids.jpg"
+    }
+  ]
+}

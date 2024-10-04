@@ -1,0 +1,41 @@
+{
+  "moduleName": "Python for Young Programmers",
+  "ageRange": "12-15",
+  "sections": [
+    {
+      "title": "Introduction to Python",
+      "content": "Learn what Python is and why it's a great language for beginners. Set up a Python environment on your computer.",
+      "activity": "Write your first Python program to print 'Hello, World!' and your name.",
+      "videoLink": "https://www.youtube.com/watch?v=jFCNu1-Xdsw",
+      "imageUrl": "https://example.com/images/python-intro-kids.jpg"
+    },
+    {
+      "title": "Variables and Data Types",
+      "content": "Explore how to store and manipulate different types of data in Python.",
+      "activity": "Create a 'Mad Libs' style game that asks for inputs and creates a funny story.",
+      "videoLink": "https://www.youtube.com/watch?v=hEgO047GxaQ",
+      "imageUrl": "https://example.com/images/python-variables-kids.jpg"
+    },
+    {
+      "title": "Loops and Conditionals",
+      "content": "Learn how to use loops and if-statements to control the flow of your Python programs.",
+      "activity": "Create a simple number guessing game using while loops and if-statements.",
+      "videoLink": "https://www.youtube.com/watch?v=IXr0-J5XXMA",
+      "imageUrl": "https://example.com/images/python-loops-conditionals-kids.jpg"
+    },
+    {
+      "title": "Functions and Modules",
+      "content": "Discover how to create reusable pieces of code with functions and how to use Python modules.",
+      "activity": "Create a simple calculator program using functions for each operation.",
+      "videoLink": "https://www.youtube.com/watch?v=GQVlIlY6Kkw",
+      "imageUrl": "https://example.com/images/python-functions-kids.jpg"
+    },
+    {
+      "title": "Simple Game Development",
+      "content": "Learn how to create a simple text-based adventure game using Python.",
+      "activity": "Design and code a short text-based adventure game with multiple paths and outcomes.",
+      "videoLink": "https://www.youtube.com/watch?v=DLn3jOsNRVE",
+      "imageUrl": "https://example.com/images/python-game-dev-kids.jpg"
+    }
+  ]
+}

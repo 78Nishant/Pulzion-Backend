@@ -1,0 +1,36 @@
+{
+  "moduleName": "Introduction to Databases",
+  "ageRange": "16-18",
+  "sections": [
+    {
+      "title": "Understanding Databases",
+      "content": "Learn what databases are, why they're important, and the difference between relational and non-relational databases. Understand basic database terminology.",
+      "activity": "Design a simple database schema for a school library system, identifying entities and their relationships.",
+      "imageUrl": "https://example.com/images/understanding-databases.jpg"
+    },
+    {
+      "title": "Introduction to SQL",
+      "content": "Learn the basics of SQL (Structured Query Language) for interacting with relational databases. Understand how to create tables and perform CRUD operations.",
+      "activity": "Use SQLite to create a simple database, insert data, and perform basic queries to retrieve and update information.",
+      "imageUrl": "https://example.com/images/intro-sql.jpg"
+    },
+    {
+      "title": "Database Design Principles",
+      "content": "Explore principles of good database design, including normalization, primary and foreign keys, and indexing.",
+      "activity": "Normalize a denormalized database schema, identifying and resolving issues like data redundancy and update anomalies.",
+      "imageUrl": "https://example.com/images/database-design.jpg"
+    },
+    {
+      "title": "Querying and Joins",
+      "content": "Learn how to write more complex SQL queries, including joins, subqueries, and aggregate functions.",
+      "activity": "Write SQL queries to answer complex questions about the school library database, involving multiple tables and aggregations.",
+      "imageUrl": "https://example.com/images/querying-joins.jpg"
+    },
+    {
+      "title": "Connecting Databases to Applications",
+      "content": "Understand how to connect a database to a programming language (e.g., Python) and perform database operations from within an application.",
+      "activity": "Create a simple Python program that connects to the SQLite database, allows users to input data, and displays query results.",
+      "imageUrl": "https://example.com/images/database-applications.jpg"
+    }
+  ]
+}

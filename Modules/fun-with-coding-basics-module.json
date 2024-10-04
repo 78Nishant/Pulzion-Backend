@@ -1,0 +1,34 @@
+{
+  "moduleName": "Fun with Coding Basics",
+  "ageRange": "6-9",
+  "sections": [
+    {
+      "title": "What is Coding?",
+      "content": "Learn what coding is and how it's used to create games, apps, and websites. Discover how computers follow instructions just like you do!",
+      "activity": "Play a fun 'Simon Says' game where you act as the computer following instructions.",
+      "videoLink": "https://www.youtube.com/watch?v=Dv7gLpW91DM",
+      "imageUrl": "https://example.com/images/what-is-coding-kids.jpg"
+    },
+    {
+      "title": "Sequencing Adventures",
+      "content": "Explore how to give step-by-step instructions to solve problems or complete tasks.",
+      "activity": "Create a 'recipe' for making a silly sandwich, being as detailed as possible with each step.",
+      "videoLink": "https://www.youtube.com/watch?v=xGx3EKQMhNk",
+      "imageUrl": "https://example.com/images/sequencing-kids.jpg"
+    },
+    {
+      "title": "Loopy Fun",
+      "content": "Learn about loops and how they help us repeat actions without writing the same thing over and over.",
+      "activity": "Draw a colorful pattern using loops of shapes or colors.",
+      "videoLink": "https://www.youtube.com/watch?v=iYwXxsPlSK4",
+      "imageUrl": "https://example.com/images/loops-kids.jpg"
+    },
+    {
+      "title": "If This, Then That Magic",
+      "content": "Discover how computers make decisions using 'if-then' statements.",
+      "activity": "Play a guessing game where you use if-then statements to narrow down the options.",
+      "videoLink": "https://www.youtube.com/watch?v=_A4bvJ2tNLU",
+      "imageUrl": "https://example.com/images/if-then-kids.jpg"
+    }
+  ]
+}

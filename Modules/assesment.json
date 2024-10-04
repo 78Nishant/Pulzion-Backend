@@ -1,0 +1,240 @@
+{
+    "modules": [
+      {
+        "name": "Thinking in Code",
+        "questions": {
+          "multiple_choice": [
+            {
+              "question": "What does an algorithm represent?",
+              "options": [
+                "A list of computer programs",
+                "A step-by-step procedure to solve a problem",
+                "A type of programming language",
+                "A coding error"
+              ],
+              "correct_answer": "A step-by-step procedure to solve a problem"
+            },
+            {
+              "question": "Which of these is a logical operation?",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "AND",
+                "Division"
+              ],
+              "correct_answer": "AND"
+            }
+          ],
+          "true_false": [
+            {
+              "question": "Algorithms can only be expressed in code. (True/False)",
+              "correct_answer": "False"
+            },
+            {
+              "question": "Pseudocode is a way to write algorithms in plain language. (True/False)",
+              "correct_answer": "True"
+            }
+          ],
+          "fill_in_the_blank": [
+            {
+              "question": "An _______ is a series of steps to solve a problem.",
+              "correct_answer": "algorithm"
+            },
+            {
+              "question": "In coding, a _______ is a specific task that the program performs.",
+              "correct_answer": "function"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Sequences, Conditionals, and Loops",
+        "questions": {
+          "multiple_choice": [
+            {
+              "question": "What is a conditional statement?",
+              "options": [
+                "A statement that executes only if a condition is met",
+                "A sequence of commands",
+                "A loop that runs forever",
+                "A type of error"
+              ],
+              "correct_answer": "A statement that executes only if a condition is met"
+            },
+            {
+              "question": "Which keyword is used for a loop in Python?",
+              "options": [
+                "if",
+                "while",
+                "print",
+                "function"
+              ],
+              "correct_answer": "while"
+            }
+          ],
+          "true_false": [
+            {
+              "question": "Loops are used to repeat code. (True/False)",
+              "correct_answer": "True"
+            },
+            {
+              "question": "An if statement can only have one condition. (True/False)",
+              "correct_answer": "False"
+            }
+          ],
+          "fill_in_the_blank": [
+            {
+              "question": "A _______ is a way to make decisions in code.",
+              "correct_answer": "conditional"
+            },
+            {
+              "question": "The _______ keyword allows you to repeat code a certain number of times.",
+              "correct_answer": "for"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Programming Fundamentals",
+        "questions": {
+          "multiple_choice": [
+            {
+              "question": "What is a variable?",
+              "options": [
+                "A way to store data",
+                "An error in code",
+                "A type of function",
+                "A loop"
+              ],
+              "correct_answer": "A way to store data"
+            },
+            {
+              "question": "Which of these is a programming language?",
+              "options": [
+                "HTML",
+                "Python",
+                "CSS",
+                "All of the above"
+              ],
+              "correct_answer": "All of the above"
+            }
+          ],
+          "true_false": [
+            {
+              "question": "Variables can change their value. (True/False)",
+              "correct_answer": "True"
+            },
+            {
+              "question": "All programming languages are the same. (True/False)",
+              "correct_answer": "False"
+            }
+          ],
+          "fill_in_the_blank": [
+            {
+              "question": "In programming, a _______ is used to store information.",
+              "correct_answer": "variable"
+            },
+            {
+              "question": "Python is known for its _______ syntax.",
+              "correct_answer": "simple"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Python Basics",
+        "questions": {
+          "multiple_choice": [
+            {
+              "question": "What symbol is used to start a comment in Python?",
+              "options": [
+                "//",
+                "#",
+                "/*",
+                "--"
+              ],
+              "correct_answer": "#"
+            },
+            {
+              "question": "Which of the following is a data type in Python?",
+              "options": [
+                "Integer",
+                "String",
+                "List",
+                "All of the above"
+              ],
+              "correct_answer": "All of the above"
+            }
+          ],
+          "true_false": [
+            {
+              "question": "Python is case-sensitive. (True/False)",
+              "correct_answer": "True"
+            },
+            {
+              "question": "You can declare a variable without assigning a value in Python. (True/False)",
+              "correct_answer": "False"
+            }
+          ],
+          "fill_in_the_blank": [
+            {
+              "question": "The function _______ is used to print output in Python.",
+              "correct_answer": "print"
+            },
+            {
+              "question": "In Python, a _______ is a collection of items.",
+              "correct_answer": "list"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Web Development Basics",
+        "questions": {
+          "multiple_choice": [
+            {
+              "question": "What does HTML stand for?",
+              "options": [
+                "Hyper Text Markup Language",
+                "High Text Markup Language",
+                "Hyperlink and Text Markup Language",
+                "None of the above"
+              ],
+              "correct_answer": "Hyper Text Markup Language"
+            },
+            {
+              "question": "Which element is used to create a link in HTML?",
+              "options": [
+                "<link>",
+                "<a>",
+                "<url>",
+                "<href>"
+              ],
+              "correct_answer": "<a>"
+            }
+          ],
+          "true_false": [
+            {
+              "question": "CSS is used to style HTML. (True/False)",
+              "correct_answer": "True"
+            },
+            {
+              "question": "JavaScript is a markup language. (True/False)",
+              "correct_answer": "False"
+            }
+          ],
+          "fill_in_the_blank": [
+            {
+              "question": "The _______ tag is used to create headings in HTML.",
+              "correct_answer": "h1"
+            },
+            {
+              "question": "To change the background color of a webpage, you use _______.",
+              "correct_answer": "CSS"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
